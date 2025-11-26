@@ -1,4 +1,4 @@
-# 🚀 API RESTful NestJS - Prueba Técnica Horbath
+# 🚀 API RESTfull NestJS - Prueba Técnica Horbath
 
 Este repositorio contiene la solución a la prueba técnica para el desarrollo de una API RESTful orientada a la gestión de productos y categorías, implementando autenticación segura y buenas prácticas de arquitectura de software.
 
